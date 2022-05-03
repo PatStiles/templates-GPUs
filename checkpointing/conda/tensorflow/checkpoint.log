@@ -1,0 +1,61 @@
+000 (14493814.000.000) 2021-12-08 16:05:38 Job submitted from host: <128.105.244.191:9618?addrs=128.105.244.191-9618&alias=submit-1.chtc.wisc.edu&noUDP&sock=schedd_2665916_368d>
+...
+040 (14493814.000.000) 2021-12-08 16:16:39 Started transferring input files
+	Transferring to host: <128.105.68.141:9618?addrs=128.105.68.141-9618&alias=gpu2001.chtc.wisc.edu&noUDP&sock=slot1_1_9369_0ed6_2310>
+...
+040 (14493814.000.000) 2021-12-08 16:18:18 Finished transferring input files
+...
+001 (14493814.000.000) 2021-12-08 16:18:19 Job executing on host: <128.105.68.141:9618?addrs=128.105.68.141-9618&alias=gpu2001.chtc.wisc.edu&noUDP&sock=startd_6826_a58f>
+...
+006 (14493814.000.000) 2021-12-08 16:18:27 Image size of job updated: 620
+	1  -  MemoryUsage of job (MB)
+	620  -  ResidentSetSize of job (KB)
+...
+006 (14493814.000.000) 2021-12-08 16:19:35 Image size of job updated: 22054684
+	1  -  MemoryUsage of job (MB)
+	620  -  ResidentSetSize of job (KB)
+...
+040 (14493814.000.000) 2021-12-08 16:19:35 Started transferring output files
+...
+040 (14493814.000.000) 2021-12-08 16:19:35 Finished transferring output files
+...
+006 (14493814.000.000) 2021-12-08 16:19:58 Image size of job updated: 22491756
+	1  -  MemoryUsage of job (MB)
+	620  -  ResidentSetSize of job (KB)
+...
+040 (14493814.000.000) 2021-12-08 16:19:58 Started transferring output files
+...
+040 (14493814.000.000) 2021-12-08 16:19:58 Finished transferring output files
+...
+006 (14493814.000.000) 2021-12-08 16:20:23 Image size of job updated: 22593636
+	1  -  MemoryUsage of job (MB)
+	620  -  ResidentSetSize of job (KB)
+...
+040 (14493814.000.000) 2021-12-08 16:20:23 Started transferring output files
+...
+040 (14493814.000.000) 2021-12-08 16:20:23 Finished transferring output files
+...
+040 (14493814.000.000) 2021-12-08 16:20:49 Started transferring output files
+...
+040 (14493814.000.000) 2021-12-08 16:20:49 Finished transferring output files
+...
+005 (14493814.000.000) 2021-12-08 16:20:50 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:03:20, Sys 0 00:00:55  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:03:20, Sys 0 00:00:55  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	3241109  -  Run Bytes Sent By Job
+	4455  -  Run Bytes Received By Job
+	3241109  -  Total Bytes Sent By Job
+	4455  -  Total Bytes Received By Job
+	Partitionable Resources :      Usage  Request Allocated Assigned
+	   Cpus                 :       0.98        1         1 
+	   Disk (KB)            : 3215154     4096000   5800163 
+	   Gpus (Average)       :       0           1         1 "GPU-ddc1c098"
+	   GpusMemory (MB)      :       3                       
+	   IoHeavy              :                             0 
+	   Memory (MB)          :       1        4096      4096 
+
+	Job terminated of its own accord at 2021-12-08T22:20:49Z with exit-code 0.
+...

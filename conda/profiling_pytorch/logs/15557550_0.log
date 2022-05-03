@@ -1,0 +1,127 @@
+000 (15557550.000.000) 2022-04-05 10:20:05 Job submitted from host: <128.105.244.191:9618?addrs=128.105.244.191-9618&alias=submit-1.chtc.wisc.edu&noUDP&sock=schedd_3562897_9248>
+...
+040 (15557550.000.000) 2022-04-05 10:20:44 Started transferring input files
+	Transferring to host: <10.5.148.47:34742?CCBID=128.105.244.51:9618%3faddrs%3d128.105.244.51-9618%26alias%3dglidein-cm3000.chtc.wisc.edu%26noUDP%26sock%3dcollector0#678732&PrivNet=CRUSH-OSG-C7-GPU-10-5-148-47&addrs=10.5.148.47-34742&alias=CRUSH-OSG-C7-GPU-10-5-148-47&noUDP>
+...
+040 (15557550.000.000) 2022-04-05 10:20:44 Finished transferring input files
+...
+001 (15557550.000.000) 2022-04-05 10:20:44 Job executing on host: <10.5.148.47:43252?CCBID=128.105.244.51:9618%3faddrs%3d128.105.244.51-9618%26alias%3dglidein-cm3000.chtc.wisc.edu%26noUDP%26sock%3dcollector4#679378&PrivNet=CRUSH-OSG-C7-GPU-10-5-148-47&addrs=10.5.148.47-43252&alias=CRUSH-OSG-C7-GPU-10-5-148-47&noUDP>
+...
+006 (15557550.000.000) 2022-04-05 10:20:53 Image size of job updated: 2
+	4  -  MemoryUsage of job (MB)
+	3164  -  ResidentSetSize of job (KB)
+...
+006 (15557550.000.000) 2022-04-05 10:25:53 Image size of job updated: 5838972
+	218  -  MemoryUsage of job (MB)
+	222992  -  ResidentSetSize of job (KB)
+...
+006 (15557550.000.000) 2022-04-05 10:30:55 Image size of job updated: 34192088
+	12321  -  MemoryUsage of job (MB)
+	12616516  -  ResidentSetSize of job (KB)
+...
+006 (15557550.000.000) 2022-04-05 10:35:55 Image size of job updated: 50785012
+	26956  -  MemoryUsage of job (MB)
+	27602496  -  ResidentSetSize of job (KB)
+...
+006 (15557550.000.000) 2022-04-05 10:40:55 Image size of job updated: 52621584
+	26956  -  MemoryUsage of job (MB)
+	27602496  -  ResidentSetSize of job (KB)
+...
+006 (15557550.000.000) 2022-04-05 10:45:55 Image size of job updated: 53976272
+	26956  -  MemoryUsage of job (MB)
+	27602496  -  ResidentSetSize of job (KB)
+...
+006 (15557550.000.000) 2022-04-05 10:50:56 Image size of job updated: 57594752
+	31605  -  MemoryUsage of job (MB)
+	32362872  -  ResidentSetSize of job (KB)
+...
+006 (15557550.000.000) 2022-04-05 10:55:57 Image size of job updated: 59564312
+	31605  -  MemoryUsage of job (MB)
+	32362872  -  ResidentSetSize of job (KB)
+...
+006 (15557550.000.000) 2022-04-05 11:00:57 Image size of job updated: 61616700
+	31605  -  MemoryUsage of job (MB)
+	32362872  -  ResidentSetSize of job (KB)
+...
+006 (15557550.000.000) 2022-04-05 11:05:58 Image size of job updated: 63500948
+	31605  -  MemoryUsage of job (MB)
+	32362872  -  ResidentSetSize of job (KB)
+...
+006 (15557550.000.000) 2022-04-05 11:10:58 Image size of job updated: 65271648
+	31605  -  MemoryUsage of job (MB)
+	32362872  -  ResidentSetSize of job (KB)
+...
+006 (15557550.000.000) 2022-04-05 11:15:58 Image size of job updated: 66005632
+	31605  -  MemoryUsage of job (MB)
+	32362872  -  ResidentSetSize of job (KB)
+...
+022 (15557550.000.000) 2022-04-07 08:27:13 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot1_1@glidein_53874_1041090766@CRUSH-OSG-C7-GPU-10-5-148-47 <10.5.148.47:43252?CCBID=128.105.244.51:9618%3faddrs%3d128.105.244.51-9618%26alias%3dglidein-cm3000.chtc.wisc.edu%26noUDP%26sock%3dcollector4#679378&PrivNet=CRUSH-OSG-C7-GPU-10-5-148-47&addrs=10.5.148.47-43252&alias=CRUSH-OSG-C7-GPU-10-5-148-47&noUDP>
+...
+023 (15557550.000.000) 2022-04-07 08:28:36 Job reconnected to slot1_1@glidein_53874_1041090766@CRUSH-OSG-C7-GPU-10-5-148-47
+    startd address: <10.5.148.47:43252?CCBID=128.105.244.51:9618%3faddrs%3d128.105.244.51-9618%26alias%3dglidein-cm3000.chtc.wisc.edu%26noUDP%26sock%3dcollector4#679378&PrivNet=CRUSH-OSG-C7-GPU-10-5-148-47&addrs=10.5.148.47-43252&alias=CRUSH-OSG-C7-GPU-10-5-148-47&noUDP>
+    starter address: <10.5.148.47:34742?CCBID=128.105.244.51:9618%3faddrs%3d128.105.244.51-9618%26alias%3dglidein-cm3000.chtc.wisc.edu%26noUDP%26sock%3dcollector0#678732&PrivNet=CRUSH-OSG-C7-GPU-10-5-148-47&addrs=10.5.148.47-34742&alias=CRUSH-OSG-C7-GPU-10-5-148-47&noUDP>
+...
+004 (15557550.000.000) 2022-04-07 09:21:50 Job was evicted.
+	(0) CPU times
+		Usr 1 22:49:55, Sys 0 00:05:16  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	Partitionable Resources :       Usage  Request Allocated 
+	   Cpus                 :        1.00        1         1 
+	   Disk (KB)            : 28993513    16777216  16958736 
+	   Memory (MB)          :    31739        4096      4096 
+...
+040 (15557550.000.000) 2022-04-07 09:23:32 Started transferring input files
+	Transferring to host: <10.5.148.45:34815?CCBID=128.105.244.51:9618%3faddrs%3d128.105.244.51-9618%26alias%3dglidein-cm3000.chtc.wisc.edu%26noUDP%26sock%3dcollector6#706474&PrivNet=CRUSH-OSG-C7-GPU-10-5-148-45&addrs=10.5.148.45-34815&alias=CRUSH-OSG-C7-GPU-10-5-148-45&noUDP>
+...
+040 (15557550.000.000) 2022-04-07 09:23:32 Finished transferring input files
+...
+001 (15557550.000.000) 2022-04-07 09:23:32 Job executing on host: <10.5.148.45:33831?CCBID=128.105.244.51:9618%3faddrs%3d128.105.244.51-9618%26alias%3dglidein-cm3000.chtc.wisc.edu%26noUDP%26sock%3dcollector0#707903&PrivNet=CRUSH-OSG-C7-GPU-10-5-148-45&addrs=10.5.148.45-33831&alias=CRUSH-OSG-C7-GPU-10-5-148-45&noUDP>
+...
+006 (15557550.000.000) 2022-04-07 10:13:45 Image size of job updated: 75000000
+	32010  -  MemoryUsage of job (MB)
+	32777820  -  ResidentSetSize of job (KB)
+...
+006 (15557550.000.000) 2022-04-07 10:23:46 Image size of job updated: 75000000
+	32362  -  MemoryUsage of job (MB)
+	33137840  -  ResidentSetSize of job (KB)
+...
+006 (15557550.000.000) 2022-04-07 10:33:47 Image size of job updated: 75000000
+	33892  -  MemoryUsage of job (MB)
+	34704728  -  ResidentSetSize of job (KB)
+...
+004 (15557550.000.000) 2022-04-09 08:26:54 Job was evicted.
+	(0) CPU times
+		Usr 1 22:52:46, Sys 0 00:07:29  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	34824368  -  Run Bytes Received By Job
+	Partitionable Resources :       Usage  Request Allocated Assigned
+	   Cpus                 :        1.00        1         1 
+	   Disk (KB)            : 28993521    16777216  16925386 
+	   Gpus (Average)       :        0.00        1         1 "GPU-85f7d191"
+	   GpusMemory (MB)      :     1516                       
+	   Memory (MB)          :    33892        4096      4096 
+...
+040 (15557550.000.000) 2022-04-09 08:27:00 Started transferring input files
+	Transferring to host: <128.104.100.169:9618?addrs=128.104.100.169-9618+[2607-f388-107c-501-ae1f-6bff-fea4-d980]-9618&alias=patel0000.chtc.wisc.edu&noUDP&sock=slot1_1_278466_3cf5_270631>
+...
+040 (15557550.000.000) 2022-04-09 08:27:00 Finished transferring input files
+...
+001 (15557550.000.000) 2022-04-09 08:27:01 Job executing on host: <128.104.100.169:9618?addrs=128.104.100.169-9618+[2607-f388-107c-501-ae1f-6bff-fea4-d980]-9618&alias=patel0000.chtc.wisc.edu&noUDP&sock=startd_31337_276a>
+...
+007 (15557550.000.000) 2022-04-09 08:27:02 Shadow exception!
+	Error from slot1_1@patel0000.chtc.wisc.edu: disk usage exceeded request_disk
+	0  -  Run Bytes Sent By Job
+	34824368  -  Run Bytes Received By Job
+...
+012 (15557550.000.000) 2022-04-09 08:27:03 Job was held.
+	Error from slot1_1@patel0000.chtc.wisc.edu: disk usage exceeded request_disk
+	Code 21 Subcode 103
+...
+009 (15557550.000.000) 2022-04-13 15:43:31 Job was aborted.
+	via condor_rm (by user pdstiles)
+...

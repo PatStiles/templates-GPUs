@@ -1,0 +1,39 @@
+000 (15394135.000.000) 2022-03-22 16:08:33 Job submitted from host: <128.105.244.191:9618?addrs=128.105.244.191-9618&alias=submit-1.chtc.wisc.edu&noUDP&sock=schedd_3562897_9248>
+...
+040 (15394135.000.000) 2022-03-22 16:13:54 Started transferring input files
+	Transferring to host: <128.105.68.75:9618?addrs=128.105.68.75-9618&alias=oconnorgpu2000.chtc.wisc.edu&noUDP&sock=slot1_2489_79be_81085>
+...
+040 (15394135.000.000) 2022-03-22 16:13:55 Finished transferring input files
+...
+001 (15394135.000.000) 2022-03-22 16:13:56 Job executing on host: <128.105.68.75:9618?addrs=128.105.68.75-9618&alias=oconnorgpu2000.chtc.wisc.edu&noUDP&sock=startd_11142_1050>
+...
+006 (15394135.000.000) 2022-03-22 16:14:04 Image size of job updated: 11216708
+	90  -  MemoryUsage of job (MB)
+	91820  -  ResidentSetSize of job (KB)
+...
+006 (15394135.000.000) 2022-03-22 16:14:36 Image size of job updated: 11216708
+	91  -  MemoryUsage of job (MB)
+	92828  -  ResidentSetSize of job (KB)
+...
+040 (15394135.000.000) 2022-03-22 16:14:36 Started transferring output files
+...
+040 (15394135.000.000) 2022-03-22 16:14:36 Finished transferring output files
+...
+005 (15394135.000.000) 2022-03-22 16:14:36 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:36, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:36, Sys 0 00:00:05  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	23049  -  Run Bytes Sent By Job
+	34824184  -  Run Bytes Received By Job
+	23049  -  Total Bytes Sent By Job
+	34824184  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated Assigned
+	   Cpus                 :                 1        24 
+	   Disk (KB)            :  1325942 16777216 872049735 
+	   Gpus (Average)       :                 1         1 "GPU-963431eb"
+	   Memory (MB)          :       91     4096    512189 
+
+	Job terminated of its own accord at 2022-03-22T21:14:36Z with exit-code 0.
+...

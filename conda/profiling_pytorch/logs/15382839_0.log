@@ -1,0 +1,39 @@
+000 (15382839.000.000) 2022-03-21 21:03:05 Job submitted from host: <128.105.244.191:9618?addrs=128.105.244.191-9618&alias=submit-1.chtc.wisc.edu&noUDP&sock=schedd_3562897_9248>
+...
+040 (15382839.000.000) 2022-03-21 21:04:16 Started transferring input files
+	Transferring to host: <128.104.103.47:9618?addrs=128.104.103.47-9618+[2607-f388-107c-501-a236-9fff-fe3c-f3a0]-9618&alias=ahlquist0000.chtc.wisc.edu&noUDP&sock=slot8_3655_072e_31981>
+...
+040 (15382839.000.000) 2022-03-21 21:04:16 Finished transferring input files
+...
+001 (15382839.000.000) 2022-03-21 21:04:17 Job executing on host: <128.104.103.47:9618?addrs=128.104.103.47-9618+[2607-f388-107c-501-a236-9fff-fe3c-f3a0]-9618&alias=ahlquist0000.chtc.wisc.edu&noUDP&sock=startd_2919_c50a>
+...
+006 (15382839.000.000) 2022-03-21 21:04:26 Image size of job updated: 173044
+	25  -  MemoryUsage of job (MB)
+	25264  -  ResidentSetSize of job (KB)
+...
+006 (15382839.000.000) 2022-03-21 21:07:22 Image size of job updated: 5355368
+	29  -  MemoryUsage of job (MB)
+	28960  -  ResidentSetSize of job (KB)
+...
+040 (15382839.000.000) 2022-03-21 21:07:22 Started transferring output files
+...
+040 (15382839.000.000) 2022-03-21 21:07:22 Finished transferring output files
+...
+005 (15382839.000.000) 2022-03-21 21:07:23 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:02:08, Sys 0 00:00:20  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:02:08, Sys 0 00:00:20  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	30908  -  Run Bytes Sent By Job
+	34824280  -  Run Bytes Received By Job
+	30908  -  Total Bytes Sent By Job
+	34824280  -  Total Bytes Received By Job
+	Partitionable Resources :       Usage  Request Allocated Assigned
+	   Cpus                 :        0.85        1         4 
+	   Disk (KB)            : 13322582    16777216 227239495 
+	   Gpus (Average)       :                    1         1 "GPU-9cbc9d87"
+	   Memory (MB)          :       29        4096     47794 
+
+	Job terminated of its own accord at 2022-03-22T02:07:22Z with exit-code 0.
+...

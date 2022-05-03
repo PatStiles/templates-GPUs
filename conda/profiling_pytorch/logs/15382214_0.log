@@ -1,0 +1,5 @@
+009 (15382214.000.000) 2022-03-21 20:22:12 Job was aborted.
+	via condor_rm (by user pdstiles)
+
+	Job terminated by itself at 2022-03-22T00:47:55Z (using method 0: OF_ITS_OWN_ACCORD).
+...

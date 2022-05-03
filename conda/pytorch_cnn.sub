@@ -1,7 +1,10 @@
 universe = vanilla
 executable = pytorch_cnn.sh
-output = $(Cluster)_$(Process).out
+log = logs/$(Cluster)_$(Process).log
+error = logs/$(Cluster)_$(Process).err
+output = logs/$(Cluster)_$(Process).out
 
+executable = pytorch_cnn.sh
 transfer_input_files = environment.yml, ../shared/pytorch/main.py, ../shared/pytorch/MNIST_data.tar.gz 
 should_transfer_files = YES
 when_to_transfer_output = ON_EXIT
@@ -9,17 +12,16 @@ when_to_transfer_output = ON_EXIT
 # The conda environment will install cudatoolkit verison 10.2
 # This requirement ensures the execute node has a new enough driver to run it
 # Reference https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html
-requirements = (CUDADriverVersion >= 10.2)
-request_gpus = 1
 
-+WantGPULab = true
+requirements = (PoolName =!= "CHTC") && (PoolName =!= "HEP") && $(reqs)
+
++WantGlidein = true
 +GPUJobLength = "short"
++Desired_Sites = "SDSC-PRP,SU-ITS"
 
+request_gpus = $(num_gpus)
 request_cpus = 1
-request_memory = 4GB
-request_disk = 5GB
+request_memory = $(amt_memory)GB
+request_disk = 1GB
 
-log = $(Cluster)_$(Process).log
-error = $(Cluster)_$(Process).err
-
-queue 1
+queue num_gpus, amt_memory, reqs from test_combination.txt

@@ -1,0 +1,54 @@
+/var/lib/condor/execute/slot8/dir_44775/condor_exec.exe: line 8: lspci: command not found
+  0%|          | 0/36 [00:00<?, ?it/s]Extracting : wheel-0.34.2-py37_0.conda:   0%|          | 0/36 [00:00<?, ?it/s]Extracting : libedit-3.1.20181209-hc058e9b_0.conda:   3%|▎         | 1/36 [00:00<00:14,  2.34it/s]Extracting : libedit-3.1.20181209-hc058e9b_0.conda:   6%|▌         | 2/36 [00:00<00:07,  4.69it/s]Extracting : libffi-3.2.1-hd88cf55_4.conda:   6%|▌         | 2/36 [00:00<00:07,  4.69it/s]        Extracting : openssl-1.1.1d-h7b6447c_4.conda:   8%|▊         | 3/36 [00:00<00:07,  4.69it/s]Extracting : libstdcxx-ng-9.1.0-hdf63c60_0.conda:  11%|█         | 4/36 [00:00<00:06,  4.69it/s]Extracting : pycparser-2.19-py37_0.conda:  14%|█▍        | 5/36 [00:00<00:06,  4.69it/s]        Extracting : requests-2.22.0-py37_1.conda:  17%|█▋        | 6/36 [00:00<00:06,  4.69it/s]Extracting : urllib3-1.25.8-py37_0.conda:  19%|█▉        | 7/36 [00:00<00:06,  4.69it/s] Extracting : six-1.14.0-py37_0.conda:  22%|██▏       | 8/36 [00:00<00:05,  4.69it/s]    Extracting : _libgcc_mutex-0.1-main.conda:  25%|██▌       | 9/36 [00:00<00:05,  4.69it/s]Extracting : xz-5.2.4-h14c3975_4.conda:  28%|██▊       | 10/36 [00:00<00:05,  4.69it/s]  Extracting : cffi-1.14.0-py37h2e261b9_0.conda:  31%|███       | 11/36 [00:00<00:05,  4.69it/s]Extracting : ca-certificates-2020.1.1-0.conda:  33%|███▎      | 12/36 [00:00<00:05,  4.69it/s]Extracting : pip-20.0.2-py37_1.conda:  36%|███▌      | 13/36 [00:00<00:04,  4.69it/s]         Extracting : pip-20.0.2-py37_1.conda:  39%|███▉      | 14/36 [00:00<00:03,  6.44it/s]Extracting : ruamel_yaml-0.15.87-py37h7b6447c_0.conda:  39%|███▉      | 14/36 [00:00<00:03,  6.44it/s]Extracting : setuptools-45.2.0-py37_0.conda:  42%|████▏     | 15/36 [00:00<00:03,  6.44it/s]          Extracting : ld_impl_linux-64-2.33.1-h53a641e_7.conda:  44%|████▍     | 16/36 [00:00<00:03,  6.44it/s]Extracting : pyopenssl-19.1.0-py37_0.conda:  47%|████▋     | 17/36 [00:00<00:02,  6.44it/s]           Extracting : conda-package-handling-1.6.0-py37h7b6447c_0.conda:  50%|█████     | 18/36 [00:00<00:02,  6.44it/s]Extracting : readline-7.0-h7b6447c_5.conda:  53%|█████▎    | 19/36 [00:00<00:02,  6.44it/s]                    Extracting : asn1crypto-1.3.0-py37_0.conda:  56%|█████▌    | 20/36 [00:00<00:02,  6.44it/s]Extracting : tqdm-4.42.1-py_0.conda:  58%|█████▊    | 21/36 [00:00<00:02,  6.44it/s]       Extracting : pycosat-0.6.3-py37h7b6447c_0.conda:  61%|██████    | 22/36 [00:00<00:02,  6.44it/s]Extracting : zlib-1.2.11-h7b6447c_3.conda:  64%|██████▍   | 23/36 [00:00<00:02,  6.44it/s]      Extracting : python-3.7.6-h0371630_2.conda:  67%|██████▋   | 24/36 [00:02<00:01,  6.44it/s]Extracting : python-3.7.6-h0371630_2.conda:  69%|██████▉   | 25/36 [00:02<00:01,  5.98it/s]Extracting : cryptography-2.8-py37h1ba5d50_0.conda:  69%|██████▉   | 25/36 [00:02<00:01,  5.98it/s]Extracting : libgcc-ng-9.1.0-hdf63c60_0.conda:  72%|███████▏  | 26/36 [00:02<00:01,  5.98it/s]     Extracting : sqlite-3.31.1-h7b6447c_0.conda:  75%|███████▌  | 27/36 [00:02<00:01,  5.98it/s]  Extracting : certifi-2019.11.28-py37_0.conda:  78%|███████▊  | 28/36 [00:02<00:01,  5.98it/s]Extracting : yaml-0.1.7-had09818_2.conda:  81%|████████  | 29/36 [00:02<00:01,  5.98it/s]    Extracting : pysocks-1.7.1-py37_0.conda:  83%|████████▎ | 30/36 [00:02<00:01,  5.98it/s] Extracting : idna-2.8-py37_0.conda:  86%|████████▌ | 31/36 [00:02<00:00,  5.98it/s]     Extracting : chardet-3.0.4-py37_1003.conda:  89%|████████▉ | 32/36 [00:02<00:00,  5.98it/s]Extracting : tk-8.6.8-hbc83047_0.conda:  92%|█████████▏| 33/36 [00:02<00:00,  5.98it/s]    Extracting : ncurses-6.2-he6710b0_0.tar.bz2:  94%|█████████▍| 34/36 [00:02<00:00,  5.98it/s]Extracting : conda-4.8.2-py37_0.tar.bz2:  97%|█████████▋| 35/36 [00:02<00:00,  5.98it/s]                                                                                            Building graph of deps:   0%|          | 0/6 [00:00<?, ?it/s]Examining pytorch::pytorch=1.8:   0%|          | 0/6 [00:00<?, ?it/s]Examining pytorch::torchvision=0.6:  17%|█▋        | 1/6 [00:00<00:02,  2.07it/s]Examining pytorch::torchvision=0.6:  33%|███▎      | 2/6 [00:00<00:00,  4.15it/s]Examining python=3.7:  33%|███▎      | 2/6 [00:03<00:00,  4.15it/s]              Examining python=3.7:  50%|█████     | 3/6 [00:03<00:02,  1.04it/s]Examining @/linux-64::__glibc==2.17=0:  50%|█████     | 3/6 [00:03<00:02,  1.04it/s]Examining @/linux-64::__glibc==2.17=0:  67%|██████▋   | 4/6 [00:03<00:01,  1.37it/s]Examining cudatoolkit=10.2:  67%|██████▋   | 4/6 [00:03<00:01,  1.37it/s]           Examining @/linux-64::__cuda==11.5=0:  83%|████████▎ | 5/6 [00:03<00:00,  1.37it/s]                                                                                   Determining conflicts:   0%|          | 0/6 [00:00<?, ?it/s]Examining conflict for torchvision pytorch:   0%|          | 0/6 [00:00<?, ?it/s]Examining conflict for python torchvision pytorch:  17%|█▋        | 1/6 [00:00<00:02,  1.91it/s]Examining conflict for python torchvision pytorch:  33%|███▎      | 2/6 [00:00<00:01,  3.83it/s]Examining conflict for python torchvision cudatoolkit pytorch:  33%|███▎      | 2/6 [00:01<00:01,  3.83it/s]Examining conflict for python torchvision cudatoolkit pytorch:  50%|█████     | 3/6 [00:01<00:01,  2.83it/s]Examining conflict for torchvision cudatoolkit pytorch:  50%|█████     | 3/6 [00:01<00:01,  2.83it/s]       Examining conflict for torchvision cudatoolkit pytorch:  67%|██████▋   | 4/6 [00:01<00:00,  2.27it/s]Examining conflict for python cudatoolkit:  67%|██████▋   | 4/6 [00:02<00:00,  2.27it/s]             Examining conflict for python cudatoolkit:  83%|████████▎ | 5/6 [00:02<00:00,  2.15it/s]Examining conflict for python cudatoolkit __glibc:  83%|████████▎ | 5/6 [00:02<00:00,  2.15it/s]Examining conflict for __cuda: 100%|██████████| 6/6 [00:02<00:00,  2.15it/s]                                                                                                Building graph of deps:   0%|          | 0/6 [00:00<?, ?it/s]Examining pytorch::pytorch=1.8:   0%|          | 0/6 [00:00<?, ?it/s]Examining pytorch::torchvision=0.6:  17%|█▋        | 1/6 [00:00<00:03,  1.58it/s]Examining pytorch::torchvision=0.6:  33%|███▎      | 2/6 [00:00<00:01,  3.17it/s]Examining python=3.7:  33%|███▎      | 2/6 [00:03<00:01,  3.17it/s]              Examining python=3.7:  50%|█████     | 3/6 [00:03<00:03,  1.01s/it]Examining @/linux-64::__glibc==2.17=0:  50%|█████     | 3/6 [00:03<00:03,  1.01s/it]Examining @/linux-64::__glibc==2.17=0:  67%|██████▋   | 4/6 [00:03<00:01,  1.29it/s]Examining cudatoolkit=10.2:  67%|██████▋   | 4/6 [00:03<00:01,  1.29it/s]           Examining @/linux-64::__cuda==11.5=0:  83%|████████▎ | 5/6 [00:03<00:00,  1.29it/s]                                                                                   Determining conflicts:   0%|          | 0/6 [00:00<?, ?it/s]Examining conflict for torchvision pytorch:   0%|          | 0/6 [00:00<?, ?it/s]Examining conflict for python torchvision pytorch:  17%|█▋        | 1/6 [00:00<00:02,  1.82it/s]Examining conflict for python torchvision pytorch:  33%|███▎      | 2/6 [00:00<00:01,  3.65it/s]Examining conflict for python torchvision cudatoolkit pytorch:  33%|███▎      | 2/6 [00:01<00:01,  3.65it/s]Examining conflict for python torchvision cudatoolkit pytorch:  50%|█████     | 3/6 [00:01<00:01,  2.81it/s]Examining conflict for torchvision cudatoolkit pytorch:  50%|█████     | 3/6 [00:01<00:01,  2.81it/s]       Examining conflict for torchvision cudatoolkit pytorch:  67%|██████▋   | 4/6 [00:01<00:00,  2.22it/s]Examining conflict for python cudatoolkit:  67%|██████▋   | 4/6 [00:02<00:00,  2.22it/s]             Examining conflict for python cudatoolkit:  83%|████████▎ | 5/6 [00:02<00:00,  2.10it/s]Examining conflict for python cudatoolkit __glibc:  83%|████████▎ | 5/6 [00:02<00:00,  2.10it/s]Examining conflict for __cuda: 100%|██████████| 6/6 [00:02<00:00,  2.10it/s]                                                                                                
+UnsatisfiableError: The following specifications were found to be incompatible with each other:
+
+Output in format: Requested package -> Available versions
+
+Package cudatoolkit conflicts for:
+cudatoolkit=10.2
+pytorch::torchvision=0.6 -> cudatoolkit[version='>=10.1,<10.2|>=10.2,<10.3|>=9.2,<9.3']
+
+Package python conflicts for:
+pytorch::torchvision=0.6 -> python[version='>=3.5,<3.6.0a0|>=3.6,<3.7.0a0|>=3.7,<3.8.0a0|>=3.8,<3.9.0a0']
+python=3.7
+pytorch::torchvision=0.6 -> numpy[version='>=1.11'] -> python[version='>=2.7,<2.8.0a0|>=3.10,<3.11.0a0|>=3.9,<3.10.0a0']
+
+Package _libgcc_mutex conflicts for:
+python=3.7 -> libgcc-ng[version='>=7.5.0'] -> _libgcc_mutex[version='*|0.1',build=main]
+cudatoolkit=10.2 -> libgcc-ng[version='>=7.3.0'] -> _libgcc_mutex[version='*|0.1',build=main]
+
+Package pytorch conflicts for:
+pytorch::torchvision=0.6 -> pytorch[version='1.5.0|1.5.1']
+pytorch::pytorch=1.8
+
+Package __glibc conflicts for:
+cudatoolkit=10.2 -> libgcc-ng[version='>=7.3.0'] -> __glibc[version='>=2.17']
+python=3.7 -> libgcc-ng[version='>=7.5.0'] -> __glibc[version='>=2.17']
+@|@/linux-64::__glibc==2.17=0
+@/linux-64::__glibc==2.17=0
+
+Package libstdcxx-ng conflicts for:
+python=3.7 -> libstdcxx-ng[version='>=7.2.0|>=7.3.0']
+cudatoolkit=10.2 -> libstdcxx-ng[version='>=7.3.0']
+pytorch::pytorch=1.8 -> ninja -> libstdcxx-ng[version='>=7.2.0|>=7.3.0|>=7.5.0']
+pytorch::torchvision=0.6 -> cudatoolkit[version='>=10.2,<10.3'] -> libstdcxx-ng[version='>=7.2.0|>=7.3.0|>=7.5.0|>=8.4.0']The following specifications were found to be incompatible with your CUDA driver:
+
+  - feature:/linux-64::__cuda==11.5=0
+  - feature:|@/linux-64::__cuda==11.5=0
+
+Your installed CUDA driver is: 11.5
+
+
+Could not find conda environment: pytorch-gpu
+You can list all discoverable environments with `conda info --envs`.
+
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ModuleNotFoundError: No module named 'torch'
+/var/lib/condor/execute/slot8/dir_44775/condor_exec.exe: line 43: start: command not found
+Traceback (most recent call last):
+  File "main.py", line 40, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+/var/lib/condor/execute/slot8/dir_44775/condor_exec.exe: line 48: date +%s: syntax error: operand expected (error token is "%s")
+/var/lib/condor/execute/slot8/dir_44775/condor_exec.exe: line 49: runtime: command not found

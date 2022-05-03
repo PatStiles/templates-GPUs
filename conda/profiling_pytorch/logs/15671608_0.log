@@ -1,0 +1,66 @@
+000 (15671608.000.000) 2022-04-27 15:16:31 Job submitted from host: <128.105.244.191:9618?addrs=128.105.244.191-9618&alias=submit-1.chtc.wisc.edu&noUDP&sock=schedd_3562897_9248>
+...
+040 (15671608.000.000) 2022-04-27 15:18:55 Started transferring input files
+	Transferring to host: <128.104.103.47:9618?addrs=128.104.103.47-9618+[2607-f388-107c-501-a236-9fff-fe3c-f3a0]-9618&alias=ahlquist0000.chtc.wisc.edu&noUDP&sock=slot3_75130_a1a8_23875>
+...
+040 (15671608.000.000) 2022-04-27 15:18:56 Finished transferring input files
+...
+001 (15671608.000.000) 2022-04-27 15:18:56 Job executing on host: <128.104.103.47:9618?addrs=128.104.103.47-9618+[2607-f388-107c-501-a236-9fff-fe3c-f3a0]-9618&alias=ahlquist0000.chtc.wisc.edu&noUDP&sock=startd_2919_c50a>
+...
+006 (15671608.000.000) 2022-04-27 15:19:04 Image size of job updated: 162416
+	154  -  MemoryUsage of job (MB)
+	157632  -  ResidentSetSize of job (KB)
+...
+006 (15671608.000.000) 2022-04-27 15:24:05 Image size of job updated: 5360192
+	176  -  MemoryUsage of job (MB)
+	179756  -  ResidentSetSize of job (KB)
+...
+006 (15671608.000.000) 2022-04-27 15:29:05 Image size of job updated: 37223648
+	8537  -  MemoryUsage of job (MB)
+	8741048  -  ResidentSetSize of job (KB)
+...
+006 (15671608.000.000) 2022-04-27 15:34:06 Image size of job updated: 47120064
+	8566  -  MemoryUsage of job (MB)
+	8770904  -  ResidentSetSize of job (KB)
+...
+006 (15671608.000.000) 2022-04-28 04:40:24 Image size of job updated: 47120064
+	8653  -  MemoryUsage of job (MB)
+	8859952  -  ResidentSetSize of job (KB)
+...
+006 (15671608.000.000) 2022-04-28 04:45:25 Image size of job updated: 49237420
+	8653  -  MemoryUsage of job (MB)
+	8860584  -  ResidentSetSize of job (KB)
+...
+006 (15671608.000.000) 2022-04-28 18:27:03 Image size of job updated: 49237420
+	9704  -  MemoryUsage of job (MB)
+	9936116  -  ResidentSetSize of job (KB)
+...
+006 (15671608.000.000) 2022-04-28 18:32:03 Image size of job updated: 49237420
+	9730  -  MemoryUsage of job (MB)
+	9963120  -  ResidentSetSize of job (KB)
+...
+006 (15671608.000.000) 2022-04-29 08:03:57 Image size of job updated: 49237420
+	12340  -  MemoryUsage of job (MB)
+	12635724  -  ResidentSetSize of job (KB)
+...
+006 (15671608.000.000) 2022-04-29 08:08:57 Image size of job updated: 49422216
+	12372  -  MemoryUsage of job (MB)
+	12668520  -  ResidentSetSize of job (KB)
+...
+022 (15671608.000.000) 2022-04-29 14:33:09 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot3@ahlquist0000.chtc.wisc.edu <128.104.103.47:9618?addrs=128.104.103.47-9618+[2607-f388-107c-501-a236-9fff-fe3c-f3a0]-9618&alias=ahlquist0000.chtc.wisc.edu&noUDP&sock=startd_2919_c50a>
+...
+023 (15671608.000.000) 2022-04-29 14:36:37 Job reconnected to slot3@ahlquist0000.chtc.wisc.edu
+    startd address: <128.104.103.47:9618?addrs=128.104.103.47-9618+[2607-f388-107c-501-a236-9fff-fe3c-f3a0]-9618&alias=ahlquist0000.chtc.wisc.edu&noUDP&sock=startd_2919_c50a>
+    starter address: <128.104.103.47:9618?addrs=128.104.103.47-9618+[2607-f388-107c-501-a236-9fff-fe3c-f3a0]-9618&alias=ahlquist0000.chtc.wisc.edu&noUDP&sock=slot3_75130_a1a8_23875>
+...
+007 (15671608.000.000) 2022-04-30 15:19:00 Shadow exception!
+	Error from slot3@ahlquist0000.chtc.wisc.edu: Job failed to complete in 72 hrs
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+012 (15671608.000.000) 2022-04-30 15:19:01 Job was held.
+	Error from slot3@ahlquist0000.chtc.wisc.edu: Job failed to complete in 72 hrs
+	Code 21 Subcode 0
+...
